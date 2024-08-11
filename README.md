@@ -12,7 +12,8 @@ This is a project
    - Find the material element's Parent:
      ![Screenshot 2024-08-11 091450](https://github.com/user-attachments/assets/45a42d52-8924-441a-9c27-dd8511dda4f9)
    - Disable the pixel Deepth Offset:
-     ![Uploading Screenshot 2024-08-11 091422.png…]()
+     ![Screenshot 2024-08-11 091422](https://github.com/user-attachments/assets/f8250b57-4f3f-4af7-8ee5-c061abeef965)
+
 
 
 
