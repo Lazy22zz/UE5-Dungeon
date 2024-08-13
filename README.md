@@ -15,6 +15,7 @@ This is a project
      ![Screenshot 2024-08-11 091422](https://github.com/user-attachments/assets/f8250b57-4f3f-4af7-8ee5-c061abeef965)
 
 3. Using point :
+   - Pointing to show properity of owner:
    ![Screenshot 2024-08-13 103357](https://github.com/user-attachments/assets/4002f793-5039-4350-89f3-bdeba750b3ec)
 
 
