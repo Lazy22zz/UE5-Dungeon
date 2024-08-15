@@ -18,6 +18,11 @@ This is a project
    - Pointing to show properity of owner:
    ![Screenshot 2024-08-13 103357](https://github.com/user-attachments/assets/4002f793-5039-4350-89f3-bdeba750b3ec)
 
+4. Reference:
+   - InterConstto
+     ![Screenshot 2024-08-14 204428](https://github.com/user-attachments/assets/b83605df-e81f-4568-a3a0-1862d22016af)
+
+
 
 
 
