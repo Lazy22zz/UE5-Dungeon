@@ -22,6 +22,11 @@ This is a project
    - InterConstto
      ![Screenshot 2024-08-14 204428](https://github.com/user-attachments/assets/b83605df-e81f-4568-a3a0-1862d22016af)
 
+5. Scene Compoment:
+   - Adding grabber by creating a new scene compoment, enable to catch the rotation of interactive objects
+     ![Screenshot 2024-08-15 201904](https://github.com/user-attachments/assets/d8dfcc89-b4df-4878-92d2-97e50675e874)
+     ![Screenshot 2024-08-15 201852](https://github.com/user-attachments/assets/597dacef-c5b7-4506-905c-6383bf344be3)
+
 
 
 
