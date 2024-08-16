@@ -27,6 +27,15 @@ This is a project
      ![Screenshot 2024-08-15 201904](https://github.com/user-attachments/assets/d8dfcc89-b4df-4878-92d2-97e50675e874)
      ![Screenshot 2024-08-15 201852](https://github.com/user-attachments/assets/597dacef-c5b7-4506-905c-6383bf344be3)
 
+6. Line / Shape Trace
+   - Creating channel to enable collision block light or not
+     ![Screenshot 2024-08-15 203305](https://github.com/user-attachments/assets/92fb9c19-c1e0-4ad9-aab8-3252a82168b9)
+     ![Screenshot 2024-08-15 203759](https://github.com/user-attachments/assets/7d839a9b-1d07-4563-94f4-d361754a6197)
+
+
+
+
+
 
 
 
