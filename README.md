@@ -34,6 +34,8 @@ This is a project
 
 7. UWorld()
    - UWorld contains multiplies of Ulevel() for optimzing efficency
+   - reference:
+   - https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Runtime/Engine/Engine/UWorld?application_version=4.27
      ![Screenshot 2024-08-15 205304](https://github.com/user-attachments/assets/4dad1ee0-66d2-41f5-b95e-16beb14f5810)
 
 
