@@ -38,6 +38,12 @@ This is a project
    - https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Runtime/Engine/Engine/UWorld?application_version=4.27
      ![Screenshot 2024-08-15 205304](https://github.com/user-attachments/assets/4dad1ee0-66d2-41f5-b95e-16beb14f5810)
 
+8.  showing the grabeer line(linedebug):
+   - using the DrawDebugLine()
+   ![Screenshot 2024-08-16 195733](https://github.com/user-attachments/assets/ab990935-9ccf-49be-b059-340c5ce656ee)
+   ![Screenshot 2024-08-16 195753](https://github.com/user-attachments/assets/dd70b3fa-765f-4796-9927-5f3ed8942732)
+
+
 
 
 
