@@ -44,6 +44,11 @@ This is a project
    ![Screenshot 2024-08-16 195753](https://github.com/user-attachments/assets/dd70b3fa-765f-4796-9927-5f3ed8942732)
    ![Screenshot 2024-08-16 211122](https://github.com/user-attachments/assets/241a4d57-563c-4d80-a4d3-b9277cea234e)
 
+9. geometry sweep
+   - display sweeping
+   - ![Screenshot 2024-08-19 135818](https://github.com/user-attachments/assets/fc249f16-e6ba-4c32-9767-2b7b7c9ee369)
+
+
 
 
 
