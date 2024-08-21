@@ -39,7 +39,7 @@ This is a project
      ![Screenshot 2024-08-15 205304](https://github.com/user-attachments/assets/4dad1ee0-66d2-41f5-b95e-16beb14f5810)
 
 8.  showing the grabeer line(linedebug):
-   - using the DrawDebugLine()
+   - enable to see the grabbing distance
    ![Screenshot 2024-08-16 195733](https://github.com/user-attachments/assets/ab990935-9ccf-49be-b059-340c5ce656ee)
    ![Screenshot 2024-08-16 195753](https://github.com/user-attachments/assets/dd70b3fa-765f-4796-9927-5f3ed8942732)
    ![Screenshot 2024-08-16 211122](https://github.com/user-attachments/assets/241a4d57-563c-4d80-a4d3-b9277cea234e)
@@ -54,6 +54,13 @@ This is a project
     - ![Screenshot 2024-08-20 194055](https://github.com/user-attachments/assets/3e6f7b94-6d07-4cd9-b4ed-d9e601e1a1d9)
     - ![Screenshot 2024-08-20 194846](https://github.com/user-attachments/assets/5b4b5957-b9b1-4a29-ae18-098fb6ad8333)
     - ![Screenshot 2024-08-20 200030](https://github.com/user-attachments/assets/d30a4fc0-711c-4045-acf1-2fe8ed12a8ff)
+   
+11. DrawdebugSphere
+    - enable to debug where did we grab
+    - ![Screenshot 2024-08-20 202929](https://github.com/user-attachments/assets/c2b1fe9a-07b6-41ca-a1c5-f2ee9065fcd1)
+    - ![Screenshot 2024-08-20 202957](https://github.com/user-attachments/assets/08d74bae-3677-4819-b122-da4bfc509b43)
+
+
 
 
 
