@@ -48,6 +48,14 @@ This is a project
    - display sweeping
    - ![Screenshot 2024-08-19 135818](https://github.com/user-attachments/assets/fc249f16-e6ba-4c32-9767-2b7b7c9ee369)
 
+10. Physics Handle
+    - Enable player can grab the object
+    - Make sure physichandle is not null
+    - ![Screenshot 2024-08-20 194055](https://github.com/user-attachments/assets/3e6f7b94-6d07-4cd9-b4ed-d9e601e1a1d9)
+    - ![Screenshot 2024-08-20 194846](https://github.com/user-attachments/assets/5b4b5957-b9b1-4a29-ae18-098fb6ad8333)
+    - ![Screenshot 2024-08-20 200030](https://github.com/user-attachments/assets/d30a4fc0-711c-4045-acf1-2fe8ed12a8ff)
+
+
 
 
 
