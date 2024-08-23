@@ -60,6 +60,14 @@ This is a project
     - ![Screenshot 2024-08-20 202929](https://github.com/user-attachments/assets/c2b1fe9a-07b6-41ca-a1c5-f2ee9065fcd1)
     - ![Screenshot 2024-08-20 202957](https://github.com/user-attachments/assets/08d74bae-3677-4819-b122-da4bfc509b43)
 
+12. WakeAllRigidBodies()
+   - enable to wake up the rigid bodies simulating.
+   - ![Screenshot 2024-08-22 195540](https://github.com/user-attachments/assets/de16cd31-a0a1-4016-8e23-e8acd00bf670)
+
+13. OutHitResult
+   - regrab the function
+   - ![Screenshot 2024-08-22 195725](https://github.com/user-attachments/assets/fc455cb1-d56f-468c-baea-3077aca1cb24)
+
 
 
 
