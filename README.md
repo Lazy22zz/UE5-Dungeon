@@ -68,6 +68,9 @@ This is a project
    - regrab the function
    - ![Screenshot 2024-08-22 195725](https://github.com/user-attachments/assets/fc455cb1-d56f-468c-baea-3077aca1cb24)
 
+14, Add tag
+   - with tag, we can identify object A can be interactived by object b
+   - ![屏幕截图 2024-09-25 192755](https://github.com/user-attachments/assets/bafed84b-62a6-4455-8557-a1989cb32419)
 
 
 
