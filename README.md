@@ -74,6 +74,9 @@ This is a project
    - ![屏幕截图 2024-09-25 192755](https://github.com/user-attachments/assets/bafed84b-62a6-4455-8557-a1989cb32419)
    - ![屏幕截图 2024-09-25 195152](https://github.com/user-attachments/assets/7e5dd2c8-241e-457a-9037-6a7210e0b44c)
    - ![屏幕截图 2024-09-25 195159](https://github.com/user-attachments/assets/3d7175c9-88c5-40fe-9e49-c4b31ab56667)
+15, poessing the pawn
+   - enable to pick which pawn that player start, pawn-> auto possess player
+   - ![屏幕截图 2024-09-28 205050](https://github.com/user-attachments/assets/fcff0182-e5ba-4740-b96c-592398e28e8c)
 
 
 
